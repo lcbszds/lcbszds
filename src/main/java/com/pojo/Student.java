@@ -5,6 +5,7 @@ public class Student {
     private String id;
     private String name;
     private int age;
+    private String add;
 
     public String getId() {
         return id;
